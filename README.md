@@ -1,2 +1,18 @@
-##A simple program to show a calendar
- for a year entered..
+Code with
++++++++++++++++++++++++++++++
+  C++, 
+  HTML,
+  CSS, 
+  JavaScript, 
+  GdScript
+  Golang
+  Python
++++++++++++++++++++++++++++++
+
+Frameworks used
++++++++++++++++++++++++++++++
+C++ SFML
+Python tkinter
+
+
+JS canvas enthusiastist
